@@ -6,28 +6,28 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/PostMapping%20addproduct.PNG" alt="project-screenshot" width="400" height="400/">
+<p>Below are the images of POST, POST with multiple Entries Request & Response, GET All Products, GET Products By Id, GET Products By Name, MYSQL Database Image before PUT REQUEST, followed by PUT REQUEST on POSTMAN, and finally MySQL Database Image after PUT Request. The last two images are related to DELETE Request with DATABASE reference.</p>
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/PostMapping%20addproduct.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/PostMapping%20addproducts%20using%20List.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/PostMapping%20addproducts%20using%20List.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/PostMapping%20addproducts%20using%20List%20response.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/PostMapping%20addproducts%20using%20List%20response.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/GetMapping%20allProducts%20req%26resp.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/GetMapping%20allProducts%20req%26resp.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/GetMapping%20ProductsById%20req%26resp.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/GetMapping%20ProductsById%20req%26resp.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/GetMapping%20ProductsByName%20req%26resp.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/GetMapping%20ProductsByName%20req%26resp.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/DB%20before%20udapte%20Bags.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/DB%20before%20udapte%20Bags.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/PutMapping%20update%20DB%20records.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/PutMapping%20update%20DB%20records.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/DB%20after%20udapte%20Bags.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/DB%20after%20udapte%20Bags.PNG" alt="project-screenshot" width="1080" height="500/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/DeleteMapping%20req%26res.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/DeleteMapping%20req%26res.PNG" alt="project-screenshot" width="800" height="250/">
 
-<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/DeleteMapping%20req%26res%20DB%20Changes.PNG" alt="project-screenshot" width="400" height="400/">
-
+<img src="https://github.com/BobbySingh26/Spring-Boot-CRUD-Operations-With-MySQL/blob/main/RestJpa-CRUD%20imgs/DeleteMapping%20req%26res%20DB%20Changes.PNG" alt="project-screenshot" width="1080" height="500/">
   
   
 <h2>🧐 Features</h2>
@@ -42,5 +42,6 @@ Here're some of the project's best features:
 *   API USING SPRING BOOT
 
 <h2>🛠️ Installation Steps:</h2>
-
-<p>1. Downdload project in zip and import after unzip in IDE</p>
+<p>1. Downdload project in zip and import after unzip in IDE, Right Click on Project in IDE and RUN the main file (RestJpaCrudApplication.java
+) using right click and RUN as JAVA Application/Spring boot application</p>
+<p><b>NOTE: in application.properties i have set tomcat server.port=9191</b> by default it is 8080</p>
